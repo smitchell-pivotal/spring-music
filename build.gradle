@@ -10,6 +10,7 @@ apply plugin: 'cloudfoundry'
 
 version = '1.0'
 
+
 sourceSets {
     main {
         java {
